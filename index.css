@@ -1,7 +1,11 @@
 #heading{
 	margin-bottom:0;
 	font-size: 50px;
+	color: #ff0000;
 }
 .jumbotron{
 	margin: 10px;
+}
+#navigation{
+	border:5px solid black;
 }
